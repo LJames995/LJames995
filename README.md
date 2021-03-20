@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @LJames995
+- 👀 I’m interested in C, Matlab, VHDL, Python, Visual Basic and Labview...
+- 🌱 I’m currently learning Matlab...
+- 📫 How to reach me ...
+
+<!---
+LJames995/LJames995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
